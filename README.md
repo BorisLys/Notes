@@ -1,2 +1,2 @@
 # Notes
-Клон заметок на iPhone реализованный на SwiftUI
+Клон заметок iPhone реализованный на SwiftUI
